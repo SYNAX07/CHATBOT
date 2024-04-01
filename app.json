@@ -10,7 +10,7 @@
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "telegram bot username here without@",
+            "description": "telegram bot username here without @",
             "required": false
         },
         "OWNER_USERNAME": {
@@ -18,11 +18,11 @@
             "required": false
         },
         "BOT_NAME": {
-            "description": "Simple Bot-name. Do not use Modified Text..",
+            "description": "Simple Bot-name. Do not use modified Text..",
             "required": false
         },
         "UPDATE_CHNL": {
-            "description": "Your Updates Channel without @",
+            "description": "Your Updates channel without @",
             "required": false
         },
         "SUPPORT_GRP": {
