@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 METHODS</b>
+<b>D𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 METHODS</b>
 </p>
 
 <h3 align="center">
